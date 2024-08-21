@@ -2,6 +2,9 @@
 
 Welcome to **IQLearn**! This repository contains the source code for the IQLearn website, a full-stack application designed to help users elevate their skills and expand their horizons through various learning modules.
 
+![image](https://github.com/user-attachments/assets/531be371-aba7-4766-9b7d-841f9f2cb7db)
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
