@@ -122,7 +122,3 @@ We welcome contributions from the community! Please fork this repository and sub
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-<--
-Thank you for your interest in IQLearn. Together, let's elevate skills and expand horizons!
--->
